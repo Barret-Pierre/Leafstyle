@@ -1,0 +1,11 @@
+@import url("/common/root.css");
+@import url("/common/typo.css");
+@import url("/common/header.css");
+@import url("/common/container.css");
+
+/* your css code here under an exemple */
+.canvas {
+  width: 400px;
+  height: 300px;
+  background: var(--secondary);
+}

@@ -1,0 +1,32 @@
+@import url("/common/root.css");
+@import url("/common/typo.css");
+@import url("/common/header.css");
+
+.hero {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: var(--secondary);
+}
+
+.target {
+  width: 100%;
+  height: calc(50vh - 140px);
+  margin-top: 3rem;
+}
+
+.categorie {
+  max-width: 1260px;
+  margin-inline: auto;
+}
+
+.target h2 {
+  margin-top: 0;
+}
+
+.target .list {
+  columns: 4;
+}

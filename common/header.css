@@ -1,0 +1,24 @@
+header {
+  width: 100%;
+  border-bottom: 2px solid var(--primary);
+}
+
+.navigation {
+  max-width: 1260px;
+  padding: 1rem 0 1rem 0;
+  margin-inline: auto;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+}
+
+.link img {
+  width: 60px;
+}
+
+.brand-name {
+  font-size: 40px;
+  color: var(--primary);
+}
