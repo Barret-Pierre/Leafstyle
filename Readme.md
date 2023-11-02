@@ -12,9 +12,9 @@ The Leafstyle is a little site in witch you can store some css canvas. This canv
 
 ## 💾 Store your target in Leafstyle
 
-1. Copy `/template` folder
+1. Copy `template/` folder
 
-2. Paste it in `/ended` folder
+2. Paste it in `ended/` folder
 
 3. For more clarity rename the folder and all the files into it with a canvas description.
 
@@ -26,11 +26,11 @@ ended/
 └── ...
 ```
 
-4. Copy and past the target structure in your `canvasName.html` in the canvas class div tag, don't forget to update your title.
+4. Copy and past the target structure from CSSBattel to your `canvasName.html`, don't forget to update your title.
 
-5. Copy and past your target CSS in your `canvasName.css`
+5. Copy and past your target CSS from CSSBattle to your `canvasName.css`
 
-6. Your target it now stored to the Leafstyle project
+6. Your target it is stored to the Leafstyle project
 
 ## 🔗 Link your target to the main page
 
